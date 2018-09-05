@@ -1,37 +1,103 @@
-## Welcome to GitHub Pages
+## Hands-on With Google Cloud AutoML
 
-You can use the [editor on GitHub](https://github.com/bit-n-bot/automl18/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This page will host content, resources and links relevant to running a 3-hour workshop or training session on [Google Cloud AutoML](https://cloud.google.com/automl/) targeting developers. The focus is on **Building High-Quality Custom ML Models with Minimal Effort.** No prior expertise with machine learning or Google Cloud is expected. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The training series kicks off in Q4 2018 and offered by [Pearson](https://www.pearson.com/us/) publishers through the [Safara Live Training](https://www.safaribooksonline.com/live-training) platform with [Nitya Narasimhan, PhD](https://nityan.me) as instructor.
 
-### Markdown
+> LIVE TRAINING SESSION DATES
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ * Oct 17, 2018, **12-3pm EST** | [Register Here](https://www.safaribooksonline.com/live-training/courses/hands-on-with-google-cloud-automl/0636920216452/) 
+ * Nov 16, 2018  **12-3pm EST** | _Link TBA_
+ * Dec 17, 2018  **1-4pm EST** | _Link TBA_
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Instructor
 
-- Bulleted
-- List
+Nitya Narasimhan is a PhD with 20+ years of software development & research experience in distributed systems, mobile & web computing. She manages the Google Developer Group New York City (GDG NYC) chapter, organizes the DevFest NYC conference and speaks regularly on emerging technologies, cross-platform application development, machine learning and community. She is also a Google Developer Expert in Flutter and a technology educator and consultant based in New York.
 
-1. Numbered
-2. List
+ * Follow her [@nitya](https://www.twitter.com/nitya) on Twitter.
+ * Connect with her [#in/nityan](https://www.linkedin.com/in/nityan) on LinkedIn
+ * Learn more at [https://nityan.me](https://nityan.me)
 
-**Bold** and _Italic_ and `Code` text
+### What You'll Learn
 
-[Link](url) and ![Image](src)
+Machine learning and artificial intelligence are rapidly permeating all aspects of the technology ecosystem across enterprise and consumer domains. Thanks to the power of cloud computing, we now have machines that are trained to see (computer vision), talk (speech), understand (natural language processing) and even translate across different languages.
+
+App developers can take advantage of pre-trained models for these features from cloud platform vendors like Google, integrating them using REST APIs exposed by those cloud ML services.But what if you wanted to have a custom model that was tailored more precisely to the needs and context for your domain -- but weren’t comfortable enough with the data sciences knowledge required to work with TensorFlow or other ML frameworks?
+
+AutoML can help. In this training, we’ll learn what AutoML is, and how we can use Google’s Cloud AutoML products to train custom models for Natural Language (to classify documents), Translation (to interpret queries) and Vision (to label images) with minimal effort.
+
+**Key Objectives**
+
+```
+ * Understand ideas behind AutoML like transfer learning and learning2learn
+ * Learn about Google’s Cloud AutoML products (Vision, Natural Language, Translation)
+ * Walk through the usage of each product with an example application and dataset
+ * Do deep dives into key aspects like data preparation & model evaluation
+ * Learn how AutoML differs from Cloud ML, TensorFlow & Firebase ML Kit options
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Schedule
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bit-n-bot/automl18/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Duration: 3 hours
+The timeframes are only estimates and may vary according to how the class is progressing
 
-### Support or Contact
+#### Segment 1: Introduction to AutoML
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_Duration: 45 minutes_
+ * What is the vision behind AutoML?
+ * High level overview of Learning2Learn, Transfer Learning
+ * Where does AutoML fit into Google’s Machine Learning ecosystem?
+ * What is Cloud AutoML?
+
+_Break: 5 minutes_
+ * Q&A 
+
+#### Segment 2 AutoML Vision (45 minutes)
+
+_Duration: 45 minutes_
+ * Challenge: Labeling Images accurately
+ * Your Options: Vision API vs. AutoML Vision
+ * AutoML Vision Training (walkthrough)
+ * Recap: Data Preparation
+ * Recap: Model Evaluation
+ * Recap: Model Testing
+
+_Break: 5 minutes_
+ * Q&A 
+ 
+#### Segment 3 AutoML Natural Language 
+_Duration: 35 minutes_
+
+ * Challenge: Detect Entities & Sentiment in Conversation
+ * Your Options: NL API vs. AutoML Natural Language
+ * AutoML Natural Language Training (walkthrough)
+ * Recap: Data Preparation
+ * Recap: Model Evaluation
+ * Recap: Model Testing
+ 
+_Break: 5 minutes_
+ * Q&A 
+ 
+#### Segment 4 AutoML Translation 
+_Duration: 25 minutes_
+
+ * Challenge: Translate query language
+ * Pick your option: Translation API vs. AutoML Translate
+ * AutoML Translate Training (walkthrough)
+ * Recap: Data Preparation
+ * Recap: Model Evaluation
+ * Recap: Model Testing
+ 
+_Break: 5 minutes_
+ * Q&A 
+
+#### Segment 5 Putting It All Together 
+_Duration: 25 minutes_
+
+ * The Google ML Ecosystem: Cloud ML, Auto ML, TensorFlow, Firebase ML Kit
+ * What We Saw: Auto ML Vision, NL, Translation
+ * Where is it useful: Application Examples
+ * What are the challenges: Preparation & Evaluation
+ * Where next: Resources & Recommendations
