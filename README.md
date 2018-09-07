@@ -68,12 +68,12 @@ _Break: 5 mins_
  _Content: 35 mins_ <br/> 
  _Break: 5 mins_
  
-Challenge: Detect Entities & Sentiment in Conversation
-Your Options: NL API vs. AutoML Natural Language
-AutoML Natural Language Training (walkthrough)
-Recap: Data Preparation
-Recap: Model Evaluation
-Recap: Model Testing
+ * Challenge: Detect Entities & Sentiment in Conversation
+ * Your Options: NL API vs. AutoML Natural Language
+ * AutoML Natural Language Training (walkthrough)
+ * Recap: Data Preparation
+ * Recap: Model Evaluation
+ * Recap: Model Testing
 
 **Segment 4 AutoML Translation** <br/> 
  _Content: 25 mins_ <br/> 
