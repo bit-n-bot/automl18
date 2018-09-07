@@ -41,21 +41,25 @@ AutoML can help. In this training, we’ll learn what AutoML is, and how we can 
 
 ### Schedule
 
-_Duration: 3 hours_
+_Duration: 3 hours, 5 segments, 5-min breaks_
 
 The timeframes are only estimates and may vary according to how the class is progressing
 
 
-> **Segment 1 Introduction to AutoML (25 mins)**
+> **Segment 1 Introduction to AutoML**
+
+ _Content: 25 mins_
+ _Break: 5 mins_
 
  * What is the vision behind AutoML
  * High level overview of Learning2Learn, Transfer Learning
  * Where does AutoML fit into Google’s Machine Learning ecosystem?
  * What is Cloud AutoML?
- 
- _Q&A Break (5 mins)_
 
-> **Segment 2 AutoML Vision (45 mins)**
+> **Segment 2 AutoML Vision**
+
+ _Content: 45 mins_
+ _Break: 5 mins_
 
  * Challenge: Labeling Images accurately
  * Your Options: Vision API vs. AutoML Vision
@@ -63,21 +67,23 @@ The timeframes are only estimates and may vary according to how the class is pro
  * Recap: Data Preparation
  * Recap: Model Evaluation
  * Recap: Model Testing
+
+> **Segment 3 AutoML Natural Language**
+
+ _Content: 35 mins_
+ _Break: 5 mins_
  
- _Q&A Break (5 mins)_
-
-> **Segment 3 AutoML Natural Language (35 mins)**
-
 Challenge: Detect Entities & Sentiment in Conversation
 Your Options: NL API vs. AutoML Natural Language
 AutoML Natural Language Training (walkthrough)
 Recap: Data Preparation
 Recap: Model Evaluation
 Recap: Model Testing
- 
- _Q&A Break (5 mins)_
 
-> **Segment 4 AutoML Translation (25 mins)**
+> **Segment 4 AutoML Translation**
+
+ _Content: 25 mins_
+ _Break: 5 mins_
 
  * Challenge: Translate query language
  * Pick your option: Translation API vs. AutoML Translate
@@ -85,13 +91,15 @@ Recap: Model Testing
  * Recap: Data Preparation
  * Recap: Model Evaluation
  * Recap: Model Testing
- 
- _Q&A Break (5 mins)_
 
-> **Segment 5 Putting It All Together (25 mins)**
+> **Segment 5 Putting It All Together**
+
+ _Content: 25 mins_
+ _Wrapup: 5 mins_
 
  * The Google ML Ecosystem: Cloud ML, Auto ML, TensorFlow, Firebase ML Kit
  * What We Saw: Auto ML Vision, NL, Translation
  * Where is it useful: Application Examples
  * What are the challenges: Preparation & Evaluation
  * Where next: Resources & Recommendations
+ 
