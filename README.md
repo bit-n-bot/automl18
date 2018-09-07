@@ -41,13 +41,11 @@ AutoML can help. In this training, we’ll learn what AutoML is, and how we can 
 
 ### Schedule
 
-_Duration: 3 hours, 5 segments, 5-min breaks_
-
+_Duration: 3 hours, 5 segments, 5-min breaks_ <br/> 
 The timeframes are only estimates and may vary according to how the class is progressing
 
-> **Segment 1 Introduction to AutoML** 
-
-_Content: 25 mins_   
+**Segment 1 Introduction to AutoML** <br/> 
+_Content: 25 mins_  <br/> 
 _Break: 5 mins_
 
   * What is the vision behind AutoML
@@ -55,9 +53,8 @@ _Break: 5 mins_
   * Where does AutoML fit into Google’s Machine Learning ecosystem?
   * What is Cloud AutoML?
 
-> **Segment 2 AutoML Vision**
-
- _Content: 45 mins_
+**Segment 2 AutoML Vision** <br/> 
+ _Content: 45 mins_ <br/> 
  _Break: 5 mins_
 
  * Challenge: Labeling Images accurately
@@ -67,9 +64,8 @@ _Break: 5 mins_
  * Recap: Model Evaluation
  * Recap: Model Testing
 
-> **Segment 3 AutoML Natural Language**
-
- _Content: 35 mins_
+**Segment 3 AutoML Natural Language** <br/> 
+ _Content: 35 mins_ <br/> 
  _Break: 5 mins_
  
 Challenge: Detect Entities & Sentiment in Conversation
@@ -79,9 +75,8 @@ Recap: Data Preparation
 Recap: Model Evaluation
 Recap: Model Testing
 
-> **Segment 4 AutoML Translation**
-
- _Content: 25 mins_
+**Segment 4 AutoML Translation** <br/> 
+ _Content: 25 mins_ <br/> 
  _Break: 5 mins_
 
  * Challenge: Translate query language
@@ -91,9 +86,8 @@ Recap: Model Testing
  * Recap: Model Evaluation
  * Recap: Model Testing
 
-> **Segment 5 Putting It All Together**
-
- _Content: 25 mins_
+**Segment 5 Putting It All Together** <br/> 
+ _Content: 25 mins_ <br/> 
  _Wrapup: 5 mins_
 
  * The Google ML Ecosystem: Cloud ML, Auto ML, TensorFlow, Firebase ML Kit
