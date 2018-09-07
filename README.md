@@ -6,10 +6,11 @@ The training series kicks off in Q4 2018 and offered by [Pearson](https://www.pe
 
 > LIVE TRAINING SESSION DATES
 
- * Oct 17, 2018, **12-3pm EST** | [Register Here](https://www.safaribooksonline.com/live-training/courses/hands-on-with-google-cloud-automl/0636920216452/) 
- * Nov 16, 2018  **12-3pm EST** | _Link TBA_
- * Dec 17, 2018  **1-4pm EST** | _Link TBA_
-
+| Date      | Time         | Registration Link |
+| :------------- |:-------------|:-----|
+| Oct 17, 2018   | **12-3pm EST**| [Register Here](https://www.safaribooksonline.com/live-training/courses/hands-on-with-google-cloud-automl/0636920216452/)  |
+| Nov 16, 2018   | **12-3pm EST**    | _TBA_ |
+| Dec 17, 2018   | **1-4pm EST**    | _TBA_ |
 
 ### Instructor
 
