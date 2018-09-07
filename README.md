@@ -13,6 +13,7 @@ The focus is on **Building High-Quality Custom ML Models with Minimal Effort.** 
 | Dec 17, 2018   | **1-4pm EST**    | _TBA_ |
 
 <hr/>
+
 ### INSTRUCTOR
 
 Nitya Narasimhan is a PhD with 20+ years of software development & research experience in distributed systems, mobile & web computing. She manages the Google Developer Group New York City (GDG NYC) chapter, organizes the DevFest NYC conference and speaks regularly on emerging technologies, cross-platform application development, machine learning and community. She is also a Google Developer Expert in Flutter and a technology educator and consultant based in New York.
@@ -40,6 +41,7 @@ AutoML can help. In this training, we’ll learn what AutoML is, and how we can 
 
 
 <hr/>
+
 ### SCHEDULE
 
 _Duration: 3 hours, 5 segments, 5-min breaks_ <br/> 
@@ -99,6 +101,7 @@ _Break: 5 mins_
  
  
 <hr/>
+
 ### RESOURCES
 
 I'll update this section on a dynamic basis, with references to relevant articles, codelabs, documentation and code examples, to help attendees continue their journey of self-guided learning around AutoML.
