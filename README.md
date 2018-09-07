@@ -45,18 +45,12 @@ _Duration: 3 hours, 5 segments, 5-min breaks_
 
 The timeframes are only estimates and may vary according to how the class is progressing
 
-| Schedule |
-| :------------- |
-| **Segment 1 Introduction to AutoML** 
-
- _Content: 25 mins_
- _Break: 5 mins_
-
- * What is the vision behind AutoML
- * High level overview of Learning2Learn, Transfer Learning
- * Where does AutoML fit into Google’s Machine Learning ecosystem?
- * What is Cloud AutoML?
-
+| **Segment 1 Introduction to AutoML**  |
+| _Content: 25 mins_ /  _Break: 5 mins_ |
+| * What is the vision behind AutoML
+  * High level overview of Learning2Learn, Transfer Learning
+  * Where does AutoML fit into Google’s Machine Learning ecosystem?
+  * What is Cloud AutoML?
 |
 
 > **Segment 2 AutoML Vision**
