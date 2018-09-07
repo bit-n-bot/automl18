@@ -2,9 +2,7 @@
 
 This page will host content, resources and links relevant to running a 3-hour workshop or training session on [Google Cloud AutoML](https://cloud.google.com/automl/) targeting developers. The focus is on **Building High-Quality Custom ML Models with Minimal Effort.** No prior expertise with machine learning or Google Cloud is expected. 
 
-The training series kicks off in Q4 2018 and offered by [Pearson](https://www.pearson.com/us/) publishers through the [Safara Live Training](https://www.safaribooksonline.com/live-training) platform with [Nitya Narasimhan, PhD](https://nityan.me) as instructor.
-
-> LIVE TRAINING SESSION DATES
+The training series kicks off in Q4 2018 and offered by [Pearson](https://www.pearson.com/us/) publishers through the [Safara Live Training](https://www.safaribooksonline.com/live-training) platform with [Nitya Narasimhan, PhD](https://nityan.me) as instructor. Training dates, times and registration links will be provided below.
 
 | Date      | Time         | Registration Link |
 | :------------- |:-------------|:-----|
